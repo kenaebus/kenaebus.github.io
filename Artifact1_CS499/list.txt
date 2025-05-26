@@ -1,0 +1,7 @@
+pip install dash
+pip install dash_leaflet
+pip install pymongo
+
+# To run:
+
+python dashboard.py

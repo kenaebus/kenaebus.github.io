@@ -1,0 +1,60 @@
+[
+  {
+    "animalType": "Dog",
+    "name": "Buddy",
+    "gender": "Male",
+    "age": "5",
+    "weight": "20",
+    "acquisitionDate": "2020-01-15",
+    "acquisitionCountry": "USA",
+    "trainingStatus": "Trained",
+    "reserved": false,
+    "inServiceCountry": "USA",
+    "breed": "Labrador"
+  },
+  {
+    "animalType": "Dog",
+    "name": "Bella",
+    "gender": "Female",
+    "age": "3",
+    "weight": "18",
+    "acquisitionDate": "2021-07-20",
+    "acquisitionCountry": "Canada",
+    "trainingStatus": "In Training",
+    "reserved": true,
+    "inServiceCountry": "Canada",
+    "breed": "German Shepherd"
+  },
+  {
+    "animalType": "Monkey",
+    "name": "Milo",
+    "gender": "Male",
+    "age": "4",
+    "weight": "12",
+    "acquisitionDate": "2019-11-10",
+    "acquisitionCountry": "Brazil",
+    "trainingStatus": "Trained",
+    "reserved": false,
+    "inServiceCountry": "Brazil",
+    "tailLength": "40cm",
+    "species": "Capuchin",
+    "height": "50cm",
+    "bodyLength": "45cm"
+  },
+  {
+    "animalType": "Monkey",
+    "name": "Luna",
+    "gender": "Female",
+    "age": "6",
+    "weight": "14",
+    "acquisitionDate": "2018-03-03",
+    "acquisitionCountry": "India",
+    "trainingStatus": "Ready",
+    "reserved": true,
+    "inServiceCountry": "India",
+    "tailLength": "38cm",
+    "species": "Rhesus Macaque",
+    "height": "48cm",
+    "bodyLength": "42cm"
+  }
+]
